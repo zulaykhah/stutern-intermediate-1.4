@@ -60,3 +60,7 @@ if (mathScore >= 70 && mathScore <= 100) {
 } else {
   console.log('Invalid score')
 }
+
+
+
+
